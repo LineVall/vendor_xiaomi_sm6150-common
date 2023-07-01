@@ -258,6 +258,7 @@ PRODUCT_PACKAGES += \
     libloc_socket \
     liblocationservice \
     liblocationservice_glue \
+    liblocdiagiface \
     liblowi_client \
     liblowi_wifihal \
     liblqe \
