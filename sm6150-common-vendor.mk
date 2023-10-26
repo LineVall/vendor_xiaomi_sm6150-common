@@ -241,6 +241,7 @@ PRODUCT_PACKAGES += \
     libcpion \
     libdataitems \
     libdisplayqos \
+    libspl \
     libdpmqmihal \
     libdrmfs \
     libdrmtime \
@@ -301,6 +302,7 @@ PRODUCT_PACKAGES += \
     libsdm-disp-vndapis \
     libsdmextension \
     libsdsprpc \
+    libsecureui \
     libsoc_helper \
     libssd \
     libsystem_health_mon \
