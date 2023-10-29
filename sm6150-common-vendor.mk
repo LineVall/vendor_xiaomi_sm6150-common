@@ -278,6 +278,8 @@ PRODUCT_PACKAGES += \
     libril-qc-hal-qmi \
     libril-qc-logger \
     librilqmiservices \
+    libprotobuf-cpp-full-3.9.1 \
+    libprotobuf-cpp-lite-3.9.1 \
     librpmb \
     libsdedrm \
     libsdm-color \
