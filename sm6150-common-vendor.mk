@@ -301,6 +301,9 @@ PRODUCT_PACKAGES += \
     libsdmextension \
     libsdsprpc \
     libsoc_helper \
+    libsecureui \
+    libsecureui_svcsock \
+    libspl \
     libssd \
     libsystem_health_mon \
     libtime_genoff \
